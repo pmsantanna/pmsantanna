@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/pedro-miguel-santanna-8643371b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.deviantart.com/pmsantanna" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" target="_blank"></a> 
     <a href=https://instagram.com/pmsantanna" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank"></a> 
- </div> 
+
       
  ![Snake animation](https://github.com/pedrosantanna/pedrosantanna/blob/output/github-contribution-grid-snake.svg)
-
+ </div> 
