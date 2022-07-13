@@ -13,7 +13,7 @@
   <img align="center" alt="Pedro-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Pedro-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Pedro-Ilustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-  <img align="right" alt="Pedro-gif" height="150" style="border-radius:50px;" src==![hiro-twozero](https://user-images.githubusercontent.com/109103570/178616585-ce76422b-20f5-479e-aa95-2d0b55cff675.gif)/>
+  <img align="right" alt="Pedro-gif" height="150" style="border-radius:50px;" src=![hiro-twozero](https://user-images.githubusercontent.com/109103570/178616585-ce76422b-20f5-479e-aa95-2d0b55cff675.gif)/>
 </div>
 
 ##
