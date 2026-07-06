@@ -1,31 +1,41 @@
-### Olá! eu sou Pedro Santanna
-<div align="center">
-  <a href="https://github.com/pmsantanna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pmsantanna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmsantanna&layout=compact&langs_count=7&theme=tokyonight"/>-->
-</div>
+# Pedro Santanna
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Pedro-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
-  <img align="center" alt="Pedro-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Pedro-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" alt="Pedro-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="Pedro-Ilustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
- <!-- <img align="right" alt="Pedro-gif" height="150" style="border-radius:50px;" src=![hiro-twozero](https://user-images.githubusercontent.com/109103570/178616585-ce76422b-20f5-479e-aa95-2d0b55cff675.gif)/> -->
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-</div>
+**Backend Developer** · Java · PostgreSQL · SQL Server · Spring
 
-##
+Systems Analyst at a Brazilian HR/payroll software company, building enterprise backend systems for the public sector. I work daily with data migration frameworks, eSocial compliance integrations, and large-scale JDBC pipelines across complex schemas.
 
-<div> 
-  <a href="https://instagram.com/pmsantanna" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedro1997santanna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-miguel-santanna-8643371b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.deviantart.com/pmsantanna" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" target="_blank"></a> 
-    <a href=https://instagram.com/pmsantanna target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/pmsantanna/pmsantanna/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+Currently focused on leveling up in open-source tooling, clean architecture, and making my work visible outside the enterprise bubble.
+
+---
+
+## What I'm building
+
+- **[DataBridge](https://github.com/pmsantanna/databridge)** — A type-safe, resumable data migration framework for Java enterprise systems. Handles paging, checkpointing, and dialect-aware upserts across PostgreSQL and SQL Server. Built from real-world experience migrating HR/payroll data at scale.
+
+---
+
+## Stack
+
+**Backend**
+Java · Spring JDBC · Maven · REST APIs · Picocli
+
+**Databases**
+PostgreSQL · SQL Server · SQL Anywhere · PL/pgSQL · CTEs · Window functions
+
+**Infra & tooling**
+Docker · Testcontainers · Git · BIRT Reports
+
+**Creative (side)**
+Blender · 3D printing (Bambu Lab) · Midjourney
+
+---
+
+## Background
+
+Most of my professional work lives inside enterprise systems that aren't public — HR platforms, payroll engines, eSocial compliance tools for Brazilian government clients. DataBridge is my effort to extract the real architectural patterns from that work into something shareable and portable.
+
+---
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/pedro-miguel-santanna-8643371b7) · [pedro1997santanna@gmail.com](mailto:pedro1997santanna@gmail.com)
